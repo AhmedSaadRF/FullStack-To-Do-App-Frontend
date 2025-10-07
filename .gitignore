@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+# IDE specific files
+.qodo/
+.vscode/
+
 # testing
 /coverage
 
